@@ -5,14 +5,14 @@ Scenario: S3 Food Ordering
 
 
 Menu, yemek, malzeme
-stock, sipariş, kuryeler, 
+depo, sipariş, kuryeler, 
 cüzdan,Müşteri, Musteri_adres ,Restorant 
 
 
 Her restorant 1 menüsü olur 
 her menünün yemekleri olur
 yemeklerin malzemesi olur
-malzemenin stocku olur
+malzemenin depoda sayısı olur
 her müşterinin adresi ve siparişi olur
 
 bir siparişin kuryesi olur müşterisi olur yemek
