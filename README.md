@@ -6,6 +6,6 @@ Scenario: S3 Food Ordering
 
 Menus, recipes, ingredient
 stock, orders, couriers, and
-wallets
+wallets,Customers Customer_Addresses Restaurants Menu_Items Deliveries Ingredients
 
 Schema = food
