@@ -4,8 +4,17 @@ Scenario: S3 Food Ordering
 
 
 
-Menus, recipes, ingredient
-stock, orders, couriers, and
-wallets,Customers, Customer_Addresses ,Restaurants,Deliveries 
+Menu, yemek, malzeme
+stock, sipariş, kuryeler, 
+cüzdan,Müşteri, Musteri_adres ,Restorant 
+
+
+Her restorant 1 menüsü olur 
+her menünün yemekleri olur
+yemeklerin malzemesi olur
+malzemenin stocku olur
+her müşterinin adresi ve siparişi olur
+
+bir siparişin kuryesi olur müşterisi olur yemek
 
 Schema = food
